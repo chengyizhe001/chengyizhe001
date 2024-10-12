@@ -4,6 +4,8 @@ title: Spark vs Hadoop Comparison
 
 ## Spark vs Hadoop Comparison
 
+---
+
 ## 1 Hadoop vs. Spark Difference:.
 
 * **Hadoop**: Primarily relies on MapReduce.
@@ -14,6 +16,7 @@ title: Spark vs Hadoop Comparison
 
 * **Hadoop**: Writing MapReduce programs can be more complex
 * **Spark**: Provides higher-level APIs in multiple languages (Java, Scala, Python, R), making it easier to write programs. 
+---
 
 ## 2 Archeticture:
 
@@ -23,6 +26,8 @@ title: Spark vs Hadoop Comparison
 
 * #### **Spark Architecture**
 ![spark-architecture](https://github.com/user-attachments/assets/be1228db-5b4a-497c-b362-d666499e98d9)
+
+---
 
 
 
