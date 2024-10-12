@@ -16,6 +16,7 @@ title: Spark vs Hadoop Comparison
 
 * **Hadoop**: Writing MapReduce programs can be more complex
 * **Spark**: Provides higher-level APIs in multiple languages (Java, Scala, Python, R), making it easier to write programs. 
+
 ---
 
 ## 2 Archeticture:
