@@ -12,8 +12,7 @@ Hadoop: Writing MapReduce programs can be more complex
 
 # Archeticture:
 
-<img width="139" alt="image" src="https://github.com/user-attachments/assets/eaa01cef-ba01-4895-bdc9-c00fa766b393">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/eaa01cef-ba01-4895-bdc9-c00fa766b393">
 
- ![image](https://github.com/user-attachments/assets/d145af01-e8a0-4ad6-8dc9-fc263db89b55)
 
 
