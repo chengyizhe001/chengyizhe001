@@ -17,10 +17,11 @@ title: Spark vs Hadoop Comparison
 
 ## 2 Archeticture:
 
-* **Hadoop Architecture**
-{{< figure caption="[Figure 1] Hadoop Architecture" src="https://github.com/user-attachments/assets/cbe29914-baa1-4b3f-a247-948ab7463b0c" width="900px" >}}
+* #**Hadoop Architecture**
+![hadoop-ecosystem](https://github.com/user-attachments/assets/cd36de54-1002-4e8e-bf3e-75f320a63926)
+  
 
-* **Spark Architecture**
+* #**Spark Architecture**
 ![spark-architecture](https://github.com/user-attachments/assets/be1228db-5b4a-497c-b362-d666499e98d9)
 
 
