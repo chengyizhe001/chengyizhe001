@@ -6,7 +6,7 @@ title: Spark vs Hadoop Comparison
 
 ---
 
-## 1 Hadoop vs. Spark Difference:.
+## 1 Hadoop vs. Spark Difference:
 
 * **Hadoop**: Primarily relies on MapReduce.
 * **Spark**: Uses in-memory processing. 
